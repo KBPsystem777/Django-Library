@@ -34,7 +34,7 @@ SECURE_BROWSER_XSS_FILTER = True
 SESSION_COOKIE_SECURE = True
 CSRF_TOKEN_SECURE = True
 CSRF_COOKIE_SECURE = True
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://intense-peak-66925.herokuapp.com/', '127.0.0.1']
 
 # Application definition
 
